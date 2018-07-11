@@ -1,0 +1,19 @@
+{
+  "name": "competition-bounties",
+  "version": "0.0.0",
+  "description": "Competition bounties to help incentivize open source",
+  "repository": "https://github.com/ryanchristo/competition-bounties",
+  "author": "Ryan Christoffersen <ryan@ryanchristo.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "truffle compile",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.10.0",
+    "truffle": "^4.1.13"
+  }
+}
