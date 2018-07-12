@@ -59,6 +59,24 @@ I recommend paying out the bounty in the following order
 2. Standard Competitions
 3. DecoSplat
 
+# Saptak's Analysis
+
+### GivemeGitcoin
+It seems like it's a simple react app (which is okay) but pretty badly structured according to me (from a developer perspective). Though the MVP works, but code wise I feel things might have been written better. Also, from linting and design perspective I see shortcoming.
+
+### Standard Competitions
+I can't really comment on the architecture as proposed, but it's MVP works as well. Also the project is well sturctured, well documented, it has TESTS!!! So from a developer's perspective, I really love it.
+
+### DecoSplat
+I have the exact same opinion as Kevin on this one project. I wish they had written a WIP code at least.
+
+### My Recommendation
+
+1. Standard Competitions
+2. GivemeGitcoin
+3. DecoSplat (sadly)
+
+
 
 # Mark's Analysis
 
