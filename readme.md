@@ -62,6 +62,8 @@ I recommend paying out the bounty in the following order
 
 # Mark's Analysis
 
+Without reiterating too much...
+
 ## submission
 
 ### GivemeGitcoin
