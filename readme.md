@@ -1,6 +1,6 @@
 # what
 
-hack.summit(blockchain) grant analysis. 
+hack.summit(blockchain) grant analysis.
 
 ## marching orders
 
@@ -20,7 +20,7 @@ Its an interesting use case of Standard Bounties.
 
 I agree with Beylin that the foundational architecture of this is somewhat flawed.  The core contributors seem open to re-architecting it with Beylin/our input
 
-This could be an intersting product to put together and build into Gitcoin to support our use in the blockchain space.  
+This could be an intersting product to put together and build into Gitcoin to support our use in the blockchain space.
 
 I ran the tests and those seem to work well. Double points for that!
 
@@ -60,3 +60,27 @@ I recommend paying out the bounty in the following order
 3. DecoSplat
 
 
+# Mark's Analysis
+
+## submission
+
+### GivemeGitcoin
+
+The concept is decent, but could suffer from liquidity issues as stated by Kevin.  I think the example application could have been structured a little better with local dev options, but generally, a solid project.
+
+### Standard Competitions
+
+The general concept seems alright.  The overall structure of the project is fairly clean and the contracts build/test properly.
+Bonus points for being open to working with Gitcoin / Bounties Network to resolve foundational issues.
+
+### DecoSplat
+
+Same as previously stated by Kevin and Saptak.  The project sounds interesting enough, but without any prototype, it seems a bit lacking in comparison to projects with a working demo.
+
+### Recommendation
+
+I recommend paying out the bounty in the following order
+
+1. GivemeGitcoin
+2. Standard Competitions
+3. DecoSplat
